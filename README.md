@@ -4,7 +4,6 @@
 ### About
 
 -  **Aprendendo :** Full-Stack Development :zap:
--  **Linguagens :** JavaScript, Python
 -  **Hobbies :** Leitura & Jogos 🎮
 -  **Organização :** Trybe - estudante
 
