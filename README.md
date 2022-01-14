@@ -43,8 +43,5 @@
   <a href="https://github.com/MaxRudim">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxRudim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/MaxRudim">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRudim&langs_count=7&theme=dark"/>
-  </a>
 </div>
 
