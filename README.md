@@ -47,7 +47,10 @@
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/MaxRudim">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxRudim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRudim&layout=compact"/>
+  </a>
+  <a href="https://github.com/MaxRudim">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxRudim&theme=tokyonight&show_icons=true"/>
   </a>
 </div>
 
