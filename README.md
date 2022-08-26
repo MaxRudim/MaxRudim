@@ -1,6 +1,7 @@
 ### Olá, sou o Max 👋. Bem vindo(a) ao meu perfil! 😁
 [![Linkedin Badge](https://img.shields.io/badge/-Max_Rudim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-rudim///)](https://www.linkedin.com/in/max-rudim//) [![Gmail Badge](https://img.shields.io/badge/-max.hermsdorff@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:max.hermsdorff@gmail.com)](mailto:max.hermsdorff@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### About
 
 -  **Aprendendo :** Full-Stack Development :zap:
@@ -8,12 +9,16 @@
 -  **Organização :** Trybe - estudante
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Linguagens e ferramentas:
-<p align="left">
-  <h2>Estudando atualmente:</h2>
+
+## Estudando atualmente:
+
   <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
   <a href="https://docs.microsoft.com/pt-br/dotnet/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot-net" width="50" height="50"/> </a>
-  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Linguagens e ferramentas:
+<p align="left">  
   <h2>Linguagens:</h2>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
    <a href="https://www.python.org/doc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a>
